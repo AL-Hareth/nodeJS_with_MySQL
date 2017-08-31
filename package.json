@@ -1,0 +1,21 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Learn NodeJS with MySQL",
+  "main": "DBconnection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "js",
+    "mysql",
+    "sql"
+  ],
+  "author": "Alhareth, Inc.",
+  "license": "MIT",
+  "dependencies": {
+    "mysql": "^2.14.1"
+  }
+}
